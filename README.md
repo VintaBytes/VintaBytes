@@ -43,5 +43,7 @@ Soy un desarrollador Full Stack especializado en Python, con experiencia en proy
 <span><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></span>
 <span><img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/></span>
 
+#### ✅ Estadísticas
+![Estadisticas](https://github-readme-stats.vercel.app/api?username=VintaBytes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
