@@ -1,6 +1,6 @@
 ## Desarrollador Full Stack y Proyectos IoT
 
-Soy un desarrollador Full Stack especializado en Python, con experiencia en proyectos IoT y en la enseñanza. Soy profesor de matemática. Mi pasión es transformar ideas en soluciones tecnológicas innovadoras.
+Desarrollador Full Stack. Programador especializado en Python, con experiencia en proyectos IoT y en la enseñanza. Profesor de matemática. Mi pasión es transformar ideas en soluciones tecnológicas innovadoras.
 
 ### Experiencia
   ✅ <b>Desarrollo Full Stack Python:</b> Proyectos de frontend y backend, utilizando el frameworks Flask y bases de datos SQL.
