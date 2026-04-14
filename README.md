@@ -7,7 +7,7 @@ Desarrollador Full Stack. Programador especializado en Python, con experiencia e
 
   ✅ <b>Proyectos IoT:</b> Diseño y desarrollo de soluciones IoT integrando hardware y software.
 
-  ✅ <b>Docencia:</b> Profesor de matemática y física en secundaria. Docente en cursos de Programación (Python) y Análisis de Datos con Python.
+  ✅ <b>Docencia:</b> Profesor de matemática y física en secundaria. Docente en cursos de Programación (Python), Análisis de Datos con Python y Machine Leraning.
 
 
 
