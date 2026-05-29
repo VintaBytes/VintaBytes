@@ -33,6 +33,8 @@ Desarrollador Full Stack. Programador especializado en Python, con experiencia e
 <span><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/uConsole-portable%20Python-2E3440?style=for-the-badge"/></span>
+<span><img src="https://img.shields.io/badge/PicoCalc-MMBasic-5E81AC?style=for-the-badge"/></span>
 
 #### 🛠️ Otras Herramientas
 <span><img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/></span>
