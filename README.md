@@ -21,6 +21,10 @@ Desarrollador Full Stack. Programador especializado en Python, con experiencia e
 #### 🎛️ Backend
 <span><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/></span>
 <span><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/></span>
+<span><img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/></span>
 
 #### 🧰 Base de datos
 <span><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/></span>
