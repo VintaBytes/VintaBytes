@@ -25,8 +25,10 @@ Desarrollador Full Stack. Programador especializado en Python, con experiencia e
 <span><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/></span>
 <span><img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/></span>
-<img src="https://img.shields.io/badge/Pygame-Python%20games-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SymPy-3B5526?style=for-the-badge&logo=sympy&logoColor=white"/>
+<span><img src="https://img.shields.io/badge/Pygame-Python%20games-3776AB?style=for-the-badge&logo=python&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/SymPy-3B5526?style=for-the-badge&logo=sympy&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/MediaPipe-computer%20vision-0097A7?style=for-the-badge"/></span>
 
 #### 🧰 Base de datos
 <span><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/></span>
@@ -52,11 +54,5 @@ Desarrollador Full Stack. Programador especializado en Python, con experiencia e
 <span><img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></span>
 <span><img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/></span>
-
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/MediaPipe-computer%20vision-0097A7?style=for-the-badge"/>
-
-#### ✅ Estadísticas
-![Estadisticas](https://github-readme-stats.vercel.app/api?username=VintaBytes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
