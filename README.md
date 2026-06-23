@@ -14,74 +14,65 @@ Desarrollador Full Stack. Programador especializado en Python, con experiencia e
 ### Herramientas
 
 #### Desarrollo / web
-<div align="center">
-<span><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/></span>
-<span><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></span>
-<span><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></span>
-</div>
+
+![Python](https://img.shields.io/badge/Python-FFD43B?logo=python\&logoColor=blue)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript\&logoColor=F7DF1E)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap\&logoColor=white)
 
 #### Datos, ciencia de datos y machine learning
-<div align="center">
-<span><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/></span>
-<span><img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/></span>
-<span><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/SymPy-3B5526?style=for-the-badge&logo=sympy&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/></span>
-</div>
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn\&logoColor=white)
+![SymPy](https://img.shields.io/badge/SymPy-3B5526?logo=sympy\&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab\&logoColor=white)
 
 #### Computación visual e interfaces interactivas
-<div align="center">
-<span><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/MediaPipe-computer%20vision-0097A7?style=for-the-badge"/></span>
-<span><img src="https://img.shields.io/badge/Pygame-Python%20games-3776AB?style=for-the-badge&logo=python&logoColor=white"/></span>
-</div>
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv\&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-computer%20vision-0097A7)
+![Pygame](https://img.shields.io/badge/Pygame-Python%20games-3776AB?logo=python\&logoColor=white)
 
 #### Bases de datos y formatos
-<div align="center">
-<span><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/></span>
-</div>
+
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite\&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-5E5C5C?logo=json\&logoColor=white)
 
 #### IoT, hardware y computación portátil
-<div align="center">
-<span><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/I2C-sensors-6A5ACD?style=for-the-badge"/></span>
-<span><img src="https://img.shields.io/badge/SPI-display%20%7C%20SD-8E44AD?style=for-the-badge"/></span>
-</div>
 
-<div align="center">
-<span><img src="https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/ESP32-2C3E50?style=for-the-badge&logo=espressif&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/ESP32--S3-34495E?style=for-the-badge&logo=espressif&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/LVGL-GUI-00A6A6?style=for-the-badge"/></span>
-<span><img src="https://img.shields.io/badge/Waveshare-Touch%20LCD-1F618D?style=for-the-badge"/></span>
-</div>
-
-<div align="center">
-<span><img src="https://img.shields.io/badge/WiFi-0078D4?style=for-the-badge"/></span>
-<span><img src="https://img.shields.io/badge/Bluetooth%20LE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/uConsole-portable%20Python-2E3440?style=for-the-badge"/></span>
-<span><img src="https://img.shields.io/badge/PicoCalc-MMBasic-5E81AC?style=for-the-badge"/></span>
-</div>
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino\&logoColor=white)
+![Arduino IDE 2](https://img.shields.io/badge/Arduino%20IDE-2.x-00979D?logo=arduino\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus\&logoColor=white)
+![Espressif](https://img.shields.io/badge/Espressif-E7352C?logo=espressif\&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-WROOM--32-blue)
+![Board](https://img.shields.io/badge/Board-ESP32%20DEVKIT%20V1-orange)
+![WiFi](https://img.shields.io/badge/WiFi-Scan%20%7C%20STA-0078D4)
+![Serial Monitor](https://img.shields.io/badge/Serial%20Monitor-115200%20baud-lightgrey)
+![I2C](https://img.shields.io/badge/I2C-sensors-6A5ACD)
+![SPI](https://img.shields.io/badge/SPI-display%20%7C%20SD-8E44AD)
+![Bluetooth LE](https://img.shields.io/badge/Bluetooth%20LE-0082FC?logo=bluetooth\&logoColor=white)
+![ESP32-S3](https://img.shields.io/badge/ESP32--S3-34495E?logo=espressif\&logoColor=white)
+![LVGL](https://img.shields.io/badge/LVGL-GUI-00A6A6)
+![Waveshare](https://img.shields.io/badge/Waveshare-Touch%20LCD-1F618D)
+![uConsole](https://img.shields.io/badge/uConsole-portable%20Python-2E3440)
+![PicoCalc](https://img.shields.io/badge/PicoCalc-MMBasic%20%7C%20Linux-5E81AC)
 
 #### Entorno de trabajo y productividad
-<div align="center">
-<span><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></span>
-<span><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/ONLYOFFICE-444444?style=for-the-badge&logo=onlyoffice&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/></span>
-</div>
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux\&logoColor=black)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?logo=visualstudiocode\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github\&logoColor=white)
+![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash\&logoColor=white)
+![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?logo=libreoffice\&logoColor=white)
+![ONLYOFFICE](https://img.shields.io/badge/ONLYOFFICE-444444?logo=onlyoffice\&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-21416B?logo=virtualbox\&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai\&logoColor=white)
+
