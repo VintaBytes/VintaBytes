@@ -54,15 +54,21 @@ Desarrollador Full Stack. Programador especializado en Python, con experiencia e
 <span><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/I2C-sensors-6A5ACD?style=for-the-badge"/></span>
+<span><img src="https://img.shields.io/badge/SPI-display%20%7C%20SD-8E44AD?style=for-the-badge"/></span>
+</div>
+
+<div align="center">
 <span><img src="https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/ESP32-2C3E50?style=for-the-badge&logo=espressif&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/ESP32--S3-34495E?style=for-the-badge&logo=espressif&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/WiFi-0078D4?style=for-the-badge"/></span>
-<span><img src="https://img.shields.io/badge/Bluetooth%20LE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/I2C-sensors-6A5ACD?style=for-the-badge"/></span>
-<span><img src="https://img.shields.io/badge/SPI-display%20%7C%20SD-8E44AD?style=for-the-badge"/></span>
 <span><img src="https://img.shields.io/badge/LVGL-GUI-00A6A6?style=for-the-badge"/></span>
 <span><img src="https://img.shields.io/badge/Waveshare-Touch%20LCD-1F618D?style=for-the-badge"/></span>
+</div>
+
+<div align="center">
+<span><img src="https://img.shields.io/badge/WiFi-0078D4?style=for-the-badge"/></span>
+<span><img src="https://img.shields.io/badge/Bluetooth%20LE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/uConsole-portable%20Python-2E3440?style=for-the-badge"/></span>
 <span><img src="https://img.shields.io/badge/PicoCalc-MMBasic-5E81AC?style=for-the-badge"/></span>
 </div>
