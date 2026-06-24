@@ -1,6 +1,6 @@
 ## Docente. Desarrollador Full Stack y Proyectos IoT
 
-Desarrollador Full Stack. Programador especializado en Python, con experiencia en [proyectos IoT](esp32-arduino-proyectos) y en la enseñanza. Profesor de matemática. Mi pasión es transformar ideas en soluciones tecnológicas innovadoras.
+Desarrollador Full Stack. Programador especializado en Python, con experiencia en [proyectos IoT](https://github.com/VintaBytes/esp32-arduino-proyectos) y en la enseñanza. Profesor de matemática. Mi pasión es transformar ideas en soluciones tecnológicas innovadoras.
 
 ### Experiencia
   ✅ <b>Desarrollo Full Stack Python:</b> Proyectos de frontend y backend, utilizando el frameworks Flask y bases de datos SQL.
