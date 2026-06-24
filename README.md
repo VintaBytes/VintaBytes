@@ -5,7 +5,7 @@ Desarrollador Full Stack. Programador especializado en [Python](https://github.c
 ### Experiencia
   ✅ <b>Desarrollo Full Stack Python:</b> Proyectos de frontend y backend, utilizando el frameworks Flask y bases de datos SQL.
 
-  ✅ <b>Proyectos IoT:</b> Diseño y desarrollo de soluciones IoT integrando hardware y software.
+  ✅ <b>Proyectos IoT:</b> [Diseño y desarrollo de soluciones IoT integrando hardware y software]((https://github.com/VintaBytes/esp32-arduino-proyectos)).
 
   ✅ <b>Docencia:</b> Profesor de matemática y física en secundaria. Docente en cursos de Programación (Python), [Ciencia de Datos con Python](https://github.com/VintaBytes/Ciencia-de-datos) y [Machine Learning](https://github.com/VintaBytes/Ciencia-de-datos/tree/main/Machine%20Learning%20con%20Python).
 
