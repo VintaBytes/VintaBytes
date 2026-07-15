@@ -13,7 +13,7 @@ Desarrollador Full Stack. Programador especializado en [Python](https://github.c
 
 
 
-### Herramientas
+# Herramientas
 
 #### Desarrollo / web
 
@@ -23,6 +23,8 @@ Desarrollador Full Stack. Programador especializado en [Python](https://github.c
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript\&logoColor=F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap\&logoColor=white)
+
+---
 
 #### Datos, ciencia de datos y machine learning
 
@@ -34,11 +36,17 @@ Desarrollador Full Stack. Programador especializado en [Python](https://github.c
 ![SymPy](https://img.shields.io/badge/SymPy-3B5526?logo=sympy\&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab\&logoColor=white)
 
+Repositorio destacado: [Ciencia de Datos con Python](https://github.com/VintaBytes/Ciencia-de-datos)
+
+---
+
 #### Computación visual e interfaces interactivas
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv\&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-computer%20vision-0097A7)
 ![Pygame](https://img.shields.io/badge/Pygame-Python%20games-3776AB?logo=python\&logoColor=white)
+
+---
 
 #### Bases de datos y formatos
 
@@ -46,6 +54,8 @@ Desarrollador Full Stack. Programador especializado en [Python](https://github.c
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql\&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite\&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-5E5C5C?logo=json\&logoColor=white)
+
+---
 
 #### IoT, hardware y computación portátil
 
@@ -65,6 +75,8 @@ Desarrollador Full Stack. Programador especializado en [Python](https://github.c
 ![Waveshare](https://img.shields.io/badge/Waveshare-Touch%20LCD-1F618D)
 ![uConsole](https://img.shields.io/badge/uConsole-portable%20Python-2E3440)
 ![PicoCalc](https://img.shields.io/badge/PicoCalc-MMBasic%20%7C%20Linux-5E81AC)
+
+---
 
 #### Entorno de trabajo y productividad
 
