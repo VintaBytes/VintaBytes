@@ -14,25 +14,25 @@ Una parte importante de estos recursos se publica de forma libre y gratuita, par
 
 Colección de libros y cuadernos de Google Colab para aprender progresivamente a trabajar con datos, desde los primeros DataFrames hasta el análisis exploratorio y el machine learning.
 
-📚 [Acceder al repositorio Ciencia de Datos con Python](https://github.com/VintaBytes/Ciencia-de-datos)
+✅ [Acceder al repositorio Ciencia de Datos con Python](https://github.com/VintaBytes/Ciencia-de-datos)
 
 ### Programación con Python
 
 Materiales, ejercicios y proyectos introductorios orientados al aprendizaje de la programación con Python.
 
-🐍 [Ver Curso de Python](https://github.com/VintaBytes/Curso_Python_1)
+✅ [Ver Curso de Python](https://github.com/VintaBytes/Curso_Python_1)
 
 ### IoT y sistemas embebidos
 
 Proyectos que integran programación, sensores, conectividad, pantallas y diferentes dispositivos basados en ESP32 y Arduino.
 
-🔌 [Ver proyectos de ESP32 y Arduino](https://github.com/VintaBytes/esp32-arduino-proyectos)
+✅ [Ver proyectos de ESP32 y Arduino](https://github.com/VintaBytes/esp32-arduino-proyectos)
 
 ### Desarrollo web
 
 Aplicaciones y experiencias de frontend y backend realizadas con HTML, CSS, JavaScript, Flask y bases de datos SQL.
 
-🌐 [Ver proyecto de frontend](https://github.com/VintaBytes/Lista-de-Tareas-Pendientes-Con-HTML-CSS-y-JavaScript)
+✅ [Ver proyecto de frontend](https://github.com/VintaBytes/Lista-de-Tareas-Pendientes-Con-HTML-CSS-y-JavaScript)
 
 ## Áreas de trabajo
 
